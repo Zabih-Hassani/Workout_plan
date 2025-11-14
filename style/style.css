@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Consolas", "Lucida Console", monospace;
+}
+h1, h2{
+    width: 400px;
+    margin: 10px;
+    border: 1px solid white;
+
+}
+body{
+    background-color: antiquewhite;
+}
+section{
+    background-color: yellow;
+}
+
