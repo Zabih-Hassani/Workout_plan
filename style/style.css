@@ -13,7 +13,41 @@ h1, h2{
 body{
     background-color: antiquewhite;
 }
-section{
-    background-color: yellow;
+.work_out_templates{
+    width: 400px;
+    border: 1px solid black;
+    margin: 0px;
+    padding: 10px;
+    border-radius: 5px;
+}
+p{
+    width: 100px;
+    display: inline-block;
+}
+
+.uke_Navn{
+    border: 1px solid black;
+}
+table, caption, tr, thead, td, th{
+    border: 1px solid black;
+}
+thead{
+    color: black;
+    border: 1px solid red;
+}
+input, tr{
+    width: 80px;
+    height: 30px;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-size: auto;
+    text-align: center;
+    text-transform: capitalize;
+}
+button:hover, input:hover{
+    background-color: gray;
+    color: aqua;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
